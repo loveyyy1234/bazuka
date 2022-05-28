@@ -26,3 +26,9 @@ Javascript: This is mainly used to add the functional properties to the website.
 php: This is a server side scripting language. Used to manage the dynamic content, database connections. This can be integrated with databases like: MySQL, PostgreSQL, Oracle DB etc.
 
 SQL: This is a base query language for the database tables and schemas. Used as a Data defination language , Data Manipualation etc.</p>
+
+<h1> Skills </h1>
+
+Team management<br>
+Project Management<br>
+Communication
